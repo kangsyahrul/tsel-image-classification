@@ -94,6 +94,13 @@ mv "datasets/validation/food" "datasets/validation/food and drinks"
 mv "datasets/validation/travel and adventure" "datasets/validation/travel and adventure"
 ```
 
+### Delete ZIP Files
+```
+rm images.zip
+rm test.zip
+rm validation.zip
+```
+
 # Experiment Tracking with [MLFlow](https://github.com/aimhubio/aim)
 
 ## Install
