@@ -241,8 +241,9 @@ tf.keras.callbacks.ModelCheckpoint(
 ```
 
 # 4. Result
-After we fine tune the model improved to `94.8%` wich has a slightly +1% improvement on validation data.
+After we fine tune the model improved to `95.6%` wich has a slightly +1.7% improvement on validation data.
 ![Best Model](images/fine-tuning/ft-table.png)
+![Best Model](images/fine-tuning/ft-table2.png)
 
 Here are the model result on test dataset
 ![Best Model](images/fine-tuning/test-scoring.png)
