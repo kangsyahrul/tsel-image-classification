@@ -1,3 +1,8 @@
+datasets/
+mlartifacts/
+mlruns/
+notebooks/checkpoints/
+notebooks/logs/
 kaggle.json
 
 # Byte-compiled / optimized / DLL files
